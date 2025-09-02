@@ -51,7 +51,7 @@ export default function Documentation() {
           Data Loading
         </Link>
       </div>
-      <div className="p-10 mx-10 text-3xl bg-black/70 mt-10 rounded-3xl h-96 w-[1200px]">
+      <div className="p-10 mx-10 text-3xl bg-black/70 mt-10 rounded-3xl h-96 w-[1200px] overflow-hidden">
         <Outlet />
       </div>
     </div>
