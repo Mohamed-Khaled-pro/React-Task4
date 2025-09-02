@@ -7,11 +7,11 @@ export default function About() {
         <h2 className="text-4xl font-bold text-gray-100 mb-6">حول الموقع</h2>
         <p className="text-3xl text-gray-300 mb-4 leading-relaxed">
           هذا الموقع هو تطبيق ويب بسيط تم تطويره باستخدام مكتبة React وبتصميم عصري باستخدام Tailwind CSS.
-          يهدف الموقع إلى توفير تجربة استخدام سلسة، سريعة، ومتجاوبة مع مختلف الأجهزة.
         </p>
         <p className="text-3xl text-gray-300 leading-relaxed">
-          تم إنشاء هذا المشروع كمبادرة شخصية لتحسين المهارات في تطوير الواجهات الأمامية
+          تم إنشاء هذا المشروع  لتحسين المهارات في تطوير الواجهات الأمامية
           واستكشاف إمكانيات React و Tailwind CSS في بناء تطبيقات ويب عصرية.
+          تم استخدام مكتبة React Router Dom ف انشاء ال Pages وتم استخدام Nested Route
         </p>
       </div>
     </section>
