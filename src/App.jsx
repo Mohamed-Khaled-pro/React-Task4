@@ -10,6 +10,7 @@ import Testing from "./Components/Nested/Testing";
 import Deploying from "./Components/Nested/Deploying";
 import Installation from "./Components/Nested/Installation";
 import Navigating from "./Components/Nested/Navigating";
+import About from "./Pages/About";
 function App() {
   return (
     <>
@@ -17,6 +18,7 @@ function App() {
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
           <Route path="/documentation" element={<Documentation />}>
             <Route path="actions" element={<Actions />} />
             <Route path="dataloading" element={<DataLoading />} />

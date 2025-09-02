@@ -4,7 +4,7 @@ import { Link, Outlet } from "react-router-dom";
 export default function Documentation() {
   return (
     <div className="flex justify-center items-center flex-col  mt-30 ">
-      <h1 className="text-white text-4xl font-stretch-20% font-extrabold font-sans">
+      <h1 className="text-white text-4xl font-stretch-20% font-extrabold font-sans shadow-lg shadow-purple-700">
         Documentation
       </h1>
       <div className="flex justify-center items-center gap-10">

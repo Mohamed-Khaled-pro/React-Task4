@@ -16,7 +16,7 @@ export default function Home() {
       </Link>
     </div>
     <div className="flex justify-center">
-<h2 className="text-white absolute bottom-0 mb-2 text-3xl">&copy; {new Date().getFullYear()} Mohamed Khaled</h2>
+<h2 className="text-white absolute bottom-0 mb-2 text-xl">&copy; {new Date().getFullYear()} Mohamed Khaled</h2>
     </div>
    </>
   );
