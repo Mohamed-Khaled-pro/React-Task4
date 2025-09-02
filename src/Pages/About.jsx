@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-   <section className="text-white py-12 px-6 md:px-16 mt-40">
+   <section dir='rtl'  className="text-white py-12 px-6 md:px-16 mt-40">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-gray-100 mb-6">حول الموقع</h2>
         <p className="text-3xl text-gray-300 mb-4 leading-relaxed">
