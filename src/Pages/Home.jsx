@@ -10,7 +10,7 @@ export default function Home() {
       </h1>
       <Link
         to={"documentation"}
-        className=" hover:scale-110 hover:bg-purple-700 hover:text-white  flex justify-center items-center p-3 text-2xl  rounded-2xl mt-10 font-bold cursor-pointer bg-white text-purple-700"
+        className=" hover:scale-105 transition-all  duration-500 hover:bg-purple-700  hover:text-white  flex justify-center items-center p-3 text-2xl  rounded-2xl mt-10 font-bold cursor-pointer bg-white text-purple-700"
       >
         Documentation
       </Link>
